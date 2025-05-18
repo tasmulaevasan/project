@@ -41,7 +41,7 @@
 1.  **Установка зависимостей:**
     * Клонируйте репозиторий:
         ```bash
-        git clone [https://github.com/tasmulaevasan/project.git](https://github.com/tasmulaevasan/project.git)
+        git clone https://github.com/tasmulaevasan/project.git
         cd project
         ```
     * Создайте и активируйте виртуальное окружение (рекомендуется):

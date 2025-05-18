@@ -1,12 +1,5 @@
 PyQt6>=6.0.0
-# PySide6-Essentials>=6.0.0 # Раскомментируйте, если используется или для лучшей поддержки Qt Multimedia
 scenedetect>=0.6.0.1
 opencv-python>=4.5.0
-openai-whisper>=20230124 # Укажите актуальную версию, если знаете, или оставьте так для последней
-# torch>=1.13.0 # Whisper требует PyTorch. Укажите версию, совместимую с вашей системой/CUDA
-# torchvision # Также может потребоваться для PyTorch
-# torchaudio # Также может потребоваться для PyTorch
-# ffmpeg-python # Если Whisper будет использовать его для загрузки аудио, хотя сам ffmpeg уже системная зависимость
+openai-whisper>=20230124
 sanitize-filename>=1.0.0
-# numpy # Зависимость для многих пакетов
-# Pillow
